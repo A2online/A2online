@@ -1,4 +1,4 @@
 - � Hi, I’m @A2online
-- � I’m interested in coding with C# 
-- 🌱 I’m currently learning C# and Sprite movement
+- � I’m interested in coding with C++ 
+- 🌱 I’m currently learning C++ and Unreal Engine
 - 📫 How to reach me on A2online on Youtube
